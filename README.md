@@ -1,4 +1,4 @@
-. Identifying Key Motifs in DNA Sequences
+Identifying Key Motifs in DNA Sequences
 Genomic sequences contain regulatory and structural elements crucial for gene expression. The script identifies:
 •	Start codons (ATG): Initiates translation.
 •	Stop codons (TAA, TAG, TGA): Terminates translation.
@@ -44,6 +44,4 @@ To express and analyze Gene X:
 o	SDS-PAGE confirms molecular weight.
 o	Western Blot ensures specificity using anti-His antibodies.
 ________________________________________
-Conclusion
-This bioinformatics pipeline automates key processes in molecular biology, from sequence analysis to primer design and experimental validation. By integrating computational and wet-lab techniques, it provides a structured approach to studying gene function and expression.
 
